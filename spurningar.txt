@@ -1,21 +1,19 @@
-1.hva� er cookies:
+1.hvað er cookies:
+cookies eru hlutir sem geymdir eru á vefinum og geta verið hættuleigir 
+
+2.hvað er sessions:
+session eru hlutir sem geymdir eru á serverinum
+
+3.Hver er grundvallar munur á cookies og session?
+
+cookies eru geymd á vefinum og session er geymd og serverinum og cookies er meira hættulegt
+
+4.Hvað er cache?
 
 
 
-2.hva� er sessions:
+5.Hvað er indexedDB?
+það er þegar notað er database á vefsíðu
 
-
-
-3.Hver er grundvallar munur � cookies og session?
-
-cookies eru geymd � vefinum og session er geymd og serverinum og cookies er meira h�ttulegt
-
-4.Hva� er cache?
-
-
-
-5.Hva� er indexedDB?
-
-
-
-6.Hva� er webSQL?
+6.Hvað er webSQL?
+það er þegar notað er database á vefsíðu
