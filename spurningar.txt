@@ -1,0 +1,21 @@
+1.hvað er cookies:
+
+
+
+2.hvað er sessions:
+
+
+
+3.Hver er grundvallar munur á cookies og session?
+
+cookies eru geymd á vefinum og session er geymd og serverinum og cookies er meira hættulegt
+
+4.Hvað er cache?
+
+
+
+5.Hvað er indexedDB?
+
+
+
+6.Hvað er webSQL?
